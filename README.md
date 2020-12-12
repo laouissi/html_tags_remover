@@ -1,18 +1,18 @@
 # html_tags_remover
-Ce fichier est un projet java qui sert Ã  convertir un document html ou bien un url Ã  un texte brut. 
+Ce fichier est un projet java utilisé pour convertir un document html ou une URL en texte brut.
 
 
-*******************************************************************************************************************************************************************************************
+************************************************** * ************************************************* ** ************************************************ ** 
 
-Pour le cas d'un document html ce document doit Ãªtre dans le mÃªme dossier oÃ¹ il y a le projet java et le nom de fichier doit Ãªtre entrÃ©e correctement avec l'extension Ã  la fin
-
-
-*******************************************************************************************************************************************************************************************
-
-Pour le cas de l'URL l'utilisateur doit entre le lien avec la forme correcte par exemple "https://www.exemple.com/" 
-
-N.B que le "/"anti slach Ã  la fin est nescessaire  
+Dans le cas d'un document html ce document doit être dans le même dossier que celui où se trouve le projet java et le nom du fichier doit être entré correctement avec l'extension à la fin
 
 
+************************************************** * ************************************************* ** ************************************************ ** 
 
-*******************************************************************************************************************************************************************************************
+Dans le cas de l'URL, l'utilisateur doit saisir le lien avec le formulaire correct par exemple "https://www.example.com/"
+
+N.B que l'anti slach "/" à la fin est nécessaire
+
+
+
+************************************************** * ************************************************* ** ************************************************ ** 
